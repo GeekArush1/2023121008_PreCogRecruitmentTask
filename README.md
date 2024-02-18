@@ -98,3 +98,6 @@ The distribution of prompts across different files is analyzed.
 
 Sentiment analysis is performed on the legal prompts using NLTK's SentimentIntensityAnalyzer.
 The distribution of sentiment scores is visualized using a histogram.
+
+
+**NOTE: task_1 and task2 have data for both the tasks**
