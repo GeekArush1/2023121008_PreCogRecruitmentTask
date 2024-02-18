@@ -1,4 +1,5 @@
 **TASK 1**
+
 _Introduction_
 This repository contains Python code for analyzing biases and attitudes present in datasets related to identity terms, occupations, regions, and gender. The analysis is conducted using Word2Vec models and cosine similarity metrics.
 
