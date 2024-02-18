@@ -9,18 +9,19 @@ _Prerequisites_
 Ensure you have the following dependencies installed:
 
 Python 3.x
-Pandas
-Gensim
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-_Usage_
 
-Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Replace placeholder URLs in the code with the actual URLs of your datasets.
-Run the code in a Python environment.
+Pandas
+
+Gensim
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
 _Code Structure_
 
 The code consists of several sections, each focusing on a specific analysis task. Here's a brief overview:
