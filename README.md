@@ -1,10 +1,10 @@
 **TASK 1**
 
-_Introduction_
+**_Introduction_**
 
 This repository contains Python code for analyzing biases and attitudes present in datasets related to identity terms, occupations, regions, and gender. The analysis is conducted using Word2Vec models and cosine similarity metrics.
 
-_Prerequisites_
+**_Prerequisites_**
 
 Ensure you have the following dependencies installed:
 
@@ -22,7 +22,7 @@ Seaborn
 
 Scikit-learn
 
-_Code Structure_
+**_Code Structure_**
 
 The code consists of several sections, each focusing on a specific analysis task. Here's a brief overview:
 
@@ -49,11 +49,11 @@ Analysis of gender biases in names is performed, specifically focusing on names 
 
 **Task 2**
 
-_Introduction_
+**_Introduction_**
 
 This repository contains Python code for analyzing legal prompts stored in JSON files. The code utilizes various libraries such as Pandas, Matplotlib, Seaborn, NLTK, and Jsonlines for data processing, visualization, and sentiment analysis.
 
-_Prerequisites_
+**_Prerequisites_**
 
 Ensure you have the following dependencies installed:
 
@@ -68,7 +68,7 @@ Seaborn
 NLTK
 
 
-Code Structure
+**Code Structure**
 
 The code is divided into several sections, each performing a specific analysis task:
 
