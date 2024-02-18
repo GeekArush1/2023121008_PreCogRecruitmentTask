@@ -48,6 +48,7 @@ The average stereotypical attitudes by religion/region and non-stereotypical att
 Analysis of gender biases in names is performed, specifically focusing on names ending with 'a' or 'i' and their association with female gender.
 
 **Task 2**
+
 _Introduction_
 
 This repository contains Python code for analyzing legal prompts stored in JSON files. The code utilizes various libraries such as Pandas, Matplotlib, Seaborn, NLTK, and Jsonlines for data processing, visualization, and sentiment analysis.
